@@ -1,0 +1,32 @@
+.maindiv{
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+.outline{
+    margin-top: 50px;
+    border:1px solid rgb(239, 82, 82);
+    height:auto;
+    margin-left:380px;
+    width:450px;
+    border-radius: 30px;
+   background-color:#25283c ;
+}
+
+.todocard{
+    margin-top:30px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    align-items: center;
+    color: #a56488;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    align-items: center;
+    color: #a56488;
+}

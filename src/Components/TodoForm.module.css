@@ -1,0 +1,29 @@
+.todoform{
+  width: 310px;
+  height: 28px;
+  align-items: center;
+  padding:5px;
+  background: transparent;
+  border:2px solid #6D435A;
+  border-right: none;
+  color:white;
+  border-top-left-radius:8px ;
+  border-bottom-left-radius:8px ;
+}
+
+.submitbtn{
+  width: 60px;
+  height: 42px;
+  cursor:pointer;
+  border:none;
+  background: transparent;
+  border:2px solid #6D435A;
+  border-top-right-radius:30px;
+  border-bottom-right-radius:30px;
+  border-left-style: dotted;
+}
+form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

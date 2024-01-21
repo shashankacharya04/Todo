@@ -1,0 +1,44 @@
+.maindiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.todocard{
+    width:380px;
+    border:2px solid burlywood;
+    padding: 2px;
+    border-radius: 8px;
+    background-color: #6D435A;
+    border: none;
+    border-top-right-radius:30px;
+    border-bottom-right-radius:30px;
+}
+
+.todos{
+    width: 250px;
+    height: 20px;
+    align-items: center;
+    padding:5px;
+    border-radius: 8px;
+    font-family: cursive;
+    border: none;
+    background-color: #6D435A;
+   
+    color: white;
+  }
+  .editbtn{
+    margin:5px;
+    width: 35px;
+    height: 30px;
+    border-radius: 10px;
+    
+  }
+  .deletebtn{
+    margin:5px;
+    width: 35px;
+    height: 30px;
+    border-radius: 10px;
+    border:none;
+  }
